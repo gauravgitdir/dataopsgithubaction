@@ -1,0 +1,9 @@
+{
+	"name": "GithubAction-Dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c529ee82-f922-4d5e-ab44-2c8fa675640d",
+		"tenantId": "638456b8-8343-4e48-9ebe-4f5cf9a1997d"
+	}
+}
